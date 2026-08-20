@@ -197,6 +197,14 @@ Key Skills
 
 Python · Machine Learning · Binary Classification · Data Preprocessing · Feature Engineering · Temporal Feature Engineering · Cross-Validation · Hyperparameter Tuning · Imbalanced Classification · Model Evaluation · Threshold Optimization · Data Leakage Prevention · Model Persistence
 
+PROJECT STRUCTURE
+
+MFI-Loan-Repayment-Prediction/
+│
+├── MFI_Loan_Repayment_Prediction.ipynb
+├── Micro-credit-card-Data-Description.xlsx
+└── README.md
+
 Future Improvements
 Deploy the model through a REST API
 Build an interactive loan-risk prediction dashboard
